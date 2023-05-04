@@ -22,8 +22,10 @@
 # GitHub Stats
 <div align="center">
   
-![ijaeu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ijaeu&theme=ocean_dark&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp; 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ijaeu&layout=compact&theme=ocean_dark&langs_count=6&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ijaeu&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijaeu&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+</p>
   
 </div>
 

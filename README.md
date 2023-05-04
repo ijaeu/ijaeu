@@ -27,15 +27,18 @@
   
 </div>
 
-<div align="right">
+<div align="center">
   
 [![](https://visitcount.itsvg.in/api?id=CJH0120&icon=7&color=6)](https://visitcount.itsvg.in)
    
 </div>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={ijaeu})](https://solved.ac/{ijaeu})
+<div align="center">
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={i_jae})](https://solved.ac/{i_jae})
+
+</div>
 <!--
 **ijaeu/ijaeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

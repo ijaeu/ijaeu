@@ -37,7 +37,7 @@
 </div>
 
 # BeakJoon 
-
+ 
 <div align="center">
 
 [![Solved.ac

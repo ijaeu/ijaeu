@@ -41,7 +41,7 @@
 <div align="center">
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={i_jae})](https://solved.ac/{i_jae})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=i_jae)](https://solved.ac/i_jae)
 
 </div>
 <!--

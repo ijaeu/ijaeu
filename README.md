@@ -32,7 +32,7 @@
 
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=i_jaeH0120&icon=7&color=6)](https://visitcount.itsvg.in)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ijaeu&show_icons=true&theme=radical)
    
 </div>
 
